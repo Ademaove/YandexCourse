@@ -1,0 +1,9 @@
+Shunting yard algorithm is quite known in the Computer Science area. You can look it up in Wikipedia for better description.
+{In computer science, the shunting-yard algorithm is a method for parsing mathematical expressions specified in infix notation. It can produce either a postfix notation string, also known as Reverse Polish notation (RPN), or an abstract syntax tree (AST).}
+
+Or this video for better understanding: https://www.youtube.com/watch?v=y_snKkv0gWc
+
+The code contains comments for debugging.
+Note, this code only works for mathematical expressions that contain only one digit numbers.
+
+
