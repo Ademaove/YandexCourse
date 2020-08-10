@@ -1,2 +1,2 @@
 # Yandex course of Development in C++
- The collection of useful algorithms, data structures and other codes from Yandex Course on Coursera.
+The collection of my codes for different problems that come hard or tricky to me.
